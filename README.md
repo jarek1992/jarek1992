@@ -12,7 +12,11 @@
 
 
 ### Skills:<br>
-[![My Skills](https://skillicons.dev/icons?i=cpp,git,linux,html,cmake,unreal)](https://skillicons.dev)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cpp,git,linux,html,cmake,unreal" height="30" />
+</a>
+<br>
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarek1992)](https://github.com/anuraghazra/github-readme-stats)
 
