@@ -5,19 +5,22 @@
 
 <img width="650" height="492" alt="Image" src="https://github.com/user-attachments/assets/91e612d0-2c7d-4f90-a350-bad5fab12408" />
 
+---
+
 ### Current Roles:
 - **MVRDV - 3D Visualizer:** *Creating real-time environments, developing and optimizibg==ng internal workflows, automating rendering tasks.*
 - **R&D - Graphics Software Developer:** *Developing a custom, high-performance Path Tracing engine from scratch in C++.* <br>
 🔭 *I’m currently working on this* 🚀-*Zenith Path Tracing Engine* 
 
-
+---
 ### Skills:<br>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=cpp,git,linux,html,cmake,unreal" height="30" />
 </a>
 <br>
-<br>
 
+---
+
+### Profile Statistics:<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarek1992)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=jarek1992) 
