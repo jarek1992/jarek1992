@@ -8,7 +8,7 @@
 ---
 
 ### 🏢Current Roles:
-- **MVRDV - 3D Visualizer:** *Creating real-time environments, developing and optimizibg==ng internal workflows, automating rendering tasks.*
+- **MVRDV - 3D Visualizer:** *Creating real-time environments, developing and optimizing internal workflows, automating rendering tasks.*
 - **R&D - Graphics Software Developer:** *Developing a custom, high-performance Path Tracing engine from scratch in C++.* <br>
 <ul>
   <p>🔭 <i>I’m currently working on this 🚀-Zenith Path Tracing Engine</i></p> 
