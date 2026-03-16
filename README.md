@@ -3,7 +3,8 @@
 ### 👷3D Visualizer & Graphics Programmer | Building custom Path Tracing engine in C++
 <i>As a 3D Visualizer, I have a deep appreciation for the aesthetics of light; as a C++ programmer, I understand its physical nature. Developing my own path tracing engine has allowed me to gain a profound understanding of the technologies I use daily—such as V-Ray and Corona—while mastering the optimization of rendering processes from the ground up.</i>
 
-<img width="650" height="492" alt="Image" src="https://github.com/user-attachments/assets/91e612d0-2c7d-4f90-a350-bad5fab12408" />
+![render_Denoise](https://github.com/user-attachments/assets/6b684c00-b011-4336-aa3b-86541ea679b3)
+
 
 ---
 
